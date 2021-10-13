@@ -9,6 +9,9 @@ h2{
   padding-left: 10%;
   padding-right: 10%;
 }
+.recipeTitles{
+  color: blue
+}
 .flashy{
   color: #F47174;
   font-style: italic;
